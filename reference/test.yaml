@@ -7,7 +7,7 @@ info:
 servers:
   - url: 'http://localhost:3000'
 paths:
-  '/users/{userId}/11111':
+  '/users/{userId}/2222':
     parameters:
       - schema:
           type: integer
